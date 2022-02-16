@@ -32,6 +32,8 @@
     *  https://blockdaemon.com/about/careers/
 
 ### DeFi
+* Ava Labs
+    * Luigi D'Onorio DeMeo - Head of DeFi | https://www.linkedin.com/in/luigi-d-onorio-demeo-a1665223/
 * Aurora
     * Danny Bocanegra - Global Head of Business Development | https://www.linkedin.com/in/dannybocanegra/
 * Killswitch
