@@ -1,9 +1,9 @@
-#### Attendees
+### Attendees
 
 ##### A list of projects relevant to me, with whom I'm interested in meeting. 
 #### Full schedule: https://ethdenver.sched.com/artist/cameron255
 
-#### All
+### All
 * Aleo
     * https://www.aleo.org/opportunities
 * Arweave
@@ -22,7 +22,7 @@
 * Parity Technologies
     *  https://www.parity.io/jobs
 
-#### Trading / Infra
+### Trading / Infra
 * Axoni
     *  https://axoni.com/careers/
 * Arrow Markets
@@ -31,9 +31,11 @@
 * Blockdaemon
     *  https://blockdaemon.com/about/careers/
 
-#### DeFi
+### DeFi
 * Aurora
     * Danny Bocanegra - Global Head of Business Development | https://www.linkedin.com/in/dannybocanegra/
+* Killswitch
+    * https://killswitch.finance
 * NEAR Protocol
     * https://nearatethdenver.splashthat.com
     * Speakers:
