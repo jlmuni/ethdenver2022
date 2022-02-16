@@ -22,16 +22,18 @@
     * Annd Lekanova | https://www.linkedin.com/in/lekanova/
 * Terra
     * Contact: general@terra.money
+    * https://www.terra.money
     * Whitepaper: https://assets.website-files.com/611153e7af981472d8da199c/618b02d13e938ae1f8ad1e45_Terra_White_paper.pdf
     * docs: https://docs.terra.money/docs/learn/protocol.html
 * Paradigm
     * Achalachal@paradigm.xyz
 * Axoni
     *  https://axoni.com/careers/
-    *  
 * Arweave
-    * 
+    * http://arweave.org
 * Moonbeam
     *  Alberto Viera - Developer Relations Manager | https://twitter.com/thealbertov19
 *  Parity Technologies
     *  https://www.parity.io/jobs
+*  Blockdaemon
+    *  https://blockdaemon.com/about/careers/
