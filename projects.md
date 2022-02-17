@@ -19,7 +19,8 @@
 - [ ] ...and grab coffee at ETHDenver!
 
 
-**All**
+### **All**
+
 * Aleo
     * https://www.aleo.org/opportunities
 * Arweave
@@ -38,7 +39,7 @@
 * Parity Technologies
     *  https://www.parity.io/jobs
 
-**Trading / Infra**
+### **Trading / Infra**
 * Axoni
     *  https://axoni.com/careers/
 * Arrow Markets
@@ -47,7 +48,7 @@
 * Blockdaemon
     *  https://blockdaemon.com/about/careers/
 
-**DeFi**
+### **DeFi**
 * Ava Labs
     * Luigi D'Onorio DeMeo[^1] - Head of DeFi | https://www.linkedin.com/in/luigi-d-onorio-demeo-a1665223/
     * https://www.avalabs.org/careers
@@ -64,7 +65,9 @@
     * Illia Polosukhin - Co-Founder | https://twitter.com/ilblackdragon?lang=en
     * Marieke Flament - CEO | https://twitter.com/mariekeflament
 * Terra
-    * Contact: general@terra.money
+    * Contact: general@terra.money [^2]
     * https://www.terra.money
     * Whitepaper: https://assets.website-files.com/611153e7af981472d8da199c/618b02d13e938ae1f8ad1e45_Terra_White_paper.pdf
     * docs: https://docs.terra.money/docs/learn/protocol.html
+[^2]:
+    Xooglers
