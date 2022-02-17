@@ -1,6 +1,7 @@
 ### Attendees
 
 ##### A list of projects relevant to me, with whom I'm interested in meeting. 
+##### I created this for several friends and me to reference, aiding with organization as we scope web3 projects of interest.
 #### Full schedule: https://ethdenver.sched.com/artist/cameron255
 
 ### All
@@ -34,6 +35,7 @@
 ### DeFi
 * Ava Labs
     * Luigi D'Onorio DeMeo - Head of DeFi | https://www.linkedin.com/in/luigi-d-onorio-demeo-a1665223/
+    * https://www.avalabs.org/careers
 * Aurora
     * Danny Bocanegra - Global Head of Business Development | https://www.linkedin.com/in/dannybocanegra/
 * Killswitch
