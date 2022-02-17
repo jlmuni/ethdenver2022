@@ -57,6 +57,9 @@
     
 * Aurora
     * Danny Bocanegra - Global Head of Business Development | https://www.linkedin.com/in/dannybocanegra/
+* Goldfinch
+    *  https://goldfinch.finance/#hiring
+    *  Decentralized credit. Anyone can lend.
 * Killswitch
     * https://killswitch.finance
 * NEAR Protocol
