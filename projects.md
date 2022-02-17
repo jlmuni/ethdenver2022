@@ -1,6 +1,6 @@
 ### web3 Project List
 
-*A list of projects relevant to me, with whom I'm interested in meeting. I created this for several friends and me to reference, aiding with organization as we scope web3 projects of interest.*
+*A list of projects with whom I'm interested in meeting. I created this for friends and for myself to reference, aiding with organization as we scope web3 projects of relevance.*
 
 >#### Full ETHDenver Agenda: [Schedule](https://ethdenver.sched.com/artist/cameron255)
 
