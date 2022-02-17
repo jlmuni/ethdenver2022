@@ -49,8 +49,11 @@
 
 **DeFi**
 * Ava Labs
-    * Luigi D'Onorio DeMeo - Head of DeFi | https://www.linkedin.com/in/luigi-d-onorio-demeo-a1665223/
+    * Luigi D'Onorio DeMeo[^1] - Head of DeFi | https://www.linkedin.com/in/luigi-d-onorio-demeo-a1665223/
     * https://www.avalabs.org/careers
+[^1]: 
+    Citi alum, worked in Credit
+    
 * Aurora
     * Danny Bocanegra - Global Head of Business Development | https://www.linkedin.com/in/dannybocanegra/
 * Killswitch
