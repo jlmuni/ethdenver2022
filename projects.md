@@ -71,3 +71,10 @@
     * docs: https://docs.terra.money/docs/learn/protocol.html
 [^2]:
     Xooglers
+    
+### *Ventures*
+* Outlier Ventures
+    * https://outlierventures.io/careers/
+    * Twitter: https://twitter.com/OVioHQ
+    * Y Com of web3
+
