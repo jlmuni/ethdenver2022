@@ -1,10 +1,25 @@
-### Attendees
+### web3 Project List
 
-##### A list of projects relevant to me, with whom I'm interested in meeting. 
-##### I created this for several friends and me to reference, aiding with organization as we scope web3 projects of interest.
-#### Full schedule: https://ethdenver.sched.com/artist/cameron255
+*A list of projects relevant to me, with whom I'm interested in meeting. I created this for several friends and me to reference, aiding with organization as we scope web3 projects of interest.*
 
-### All
+>#### Full ETHDenver Agenda: [Schedule](https://ethdenver.sched.com/artist/cameron255)
+
+###Project Checklist
+- [ ] Navigate the website
+- [ ] Read the documentation
+- [ ] Visit + follow the founders' / lead members' / contributers' Twitter pages (+ githubs, if you feel fancy;) )
+- [ ] Summarize the following:
+   * What problem does the project aim to solve?
+   * Who's on the team? What are their backgrounds?
+   * Who funds it?
+   * Tokenomics? (inflationary / deflationary, % locked up, vesting schedule)
+   * Consensus mechanism?
+   * Risks and competitors
+- [ ] Reach out to team members via Linkedin, Twitter, or email
+- [ ] ...and grab coffee at ETHDenver!
+
+
+**All**
 * Aleo
     * https://www.aleo.org/opportunities
 * Arweave
@@ -23,7 +38,7 @@
 * Parity Technologies
     *  https://www.parity.io/jobs
 
-### Trading / Infra
+**Trading / Infra**
 * Axoni
     *  https://axoni.com/careers/
 * Arrow Markets
@@ -32,7 +47,7 @@
 * Blockdaemon
     *  https://blockdaemon.com/about/careers/
 
-### DeFi
+**DeFi**
 * Ava Labs
     * Luigi D'Onorio DeMeo - Head of DeFi | https://www.linkedin.com/in/luigi-d-onorio-demeo-a1665223/
     * https://www.avalabs.org/careers
