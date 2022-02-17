@@ -4,7 +4,7 @@
 
 >#### Full ETHDenver Agenda: [Schedule](https://ethdenver.sched.com/artist/cameron255)
 
-###Project Checklist
+### Project Checklist
 - [ ] Navigate the website
 - [ ] Read the documentation
 - [ ] Visit + follow the founders' / lead members' / contributers' Twitter pages (+ githubs, if you feel fancy;) )
