@@ -1,2 +1,3 @@
-# ethdenver2022
-My notes from ETHDenver's 2022 conference. Includes repo of projects in town.
+# Project Watch
+Various projects I'm currently watching.
+Includes positions to monitor pre- / post-application.
