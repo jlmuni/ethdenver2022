@@ -62,7 +62,7 @@
     *  Decentralized credit. Anyone can lend.
     *  Business Operations Manger:
       -  https://jobs.lever.co/Goldfinch/9ff0f685-df84-4763-885b-132979d9481b/apply
-    *  General Opening
+    *  General Opening:
       -  https://jobs.lever.co/Goldfinch/9ff0f685-df84-4763-885b-132979d9481b/apply
 * Killswitch
     * https://killswitch.finance
